@@ -1,0 +1,11 @@
+C:\Documents and Settings\HP Compaq\My Documents\for lean\for Studio_C#\Windows_Course\Задания по курсу С#_Windows\Calculator\obj\Debug\Calculator.exe
+C:\Documents and Settings\HP Compaq\My Documents\for lean\for Studio_C#\Windows_Course\Задания по курсу С#_Windows\Calculator\obj\Debug\Calculator.pdb
+C:\Users\User\OneDrive\Документы\ITMO\CalculatorFinalTask\bin\Debug\Calculator.exe
+C:\Users\User\OneDrive\Документы\ITMO\CalculatorFinalTask\bin\Debug\Calculator.pdb
+C:\Users\User\OneDrive\Документы\ITMO\CalculatorFinalTask\bin\Debug\CalcDescription.xml
+C:\Users\User\OneDrive\Документы\ITMO\CalculatorFinalTask\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\Users\User\OneDrive\Документы\ITMO\CalculatorFinalTask\obj\Debug\Calculator.Calc.resources
+C:\Users\User\OneDrive\Документы\ITMO\CalculatorFinalTask\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Документы\ITMO\CalculatorFinalTask\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Документы\ITMO\CalculatorFinalTask\obj\Debug\Calculator.exe
+C:\Users\User\OneDrive\Документы\ITMO\CalculatorFinalTask\obj\Debug\Calculator.pdb

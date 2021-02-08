@@ -1,0 +1,16 @@
+C:\Users\User\OneDrive\Документы\ITMO\CalculatorFinalTask\FirstForm\bin\Debug\FirstForm.exe.config
+C:\Users\User\OneDrive\Документы\ITMO\CalculatorFinalTask\FirstForm\bin\Debug\FirstForm.exe
+C:\Users\User\OneDrive\Документы\ITMO\CalculatorFinalTask\FirstForm\bin\Debug\FirstForm.pdb
+C:\Users\User\OneDrive\Документы\ITMO\CalculatorFinalTask\FirstForm\obj\Debug\FirstForm.csprojAssemblyReference.cache
+C:\Users\User\OneDrive\Документы\ITMO\CalculatorFinalTask\FirstForm\obj\Debug\FirstForm.Properties.Resources.resources
+C:\Users\User\OneDrive\Документы\ITMO\CalculatorFinalTask\FirstForm\obj\Debug\FirstForm.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Документы\ITMO\CalculatorFinalTask\FirstForm\obj\Debug\FirstForm.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Документы\ITMO\CalculatorFinalTask\FirstForm\obj\Debug\FirstForm.exe
+C:\Users\User\OneDrive\Документы\ITMO\CalculatorFinalTask\FirstForm\obj\Debug\FirstForm.pdb
+C:\Users\User\OneDrive\Документы\ITMO\CalculatorFinalTask\FirstForm\obj\Debug\FirstForm.FirstForm.resources
+C:\Users\User\OneDrive\Документы\ITMO\CalculatorFinalTask\FirstForm\bin\Debug\Calculator.exe
+C:\Users\User\OneDrive\Документы\ITMO\CalculatorFinalTask\FirstForm\bin\Debug\Calculator.pdb
+C:\Users\User\OneDrive\Документы\ITMO\CalculatorFinalTask\FirstForm\obj\Debug\FirstForm.csproj.CopyComplete
+C:\Users\User\OneDrive\Документы\ITMO\CalculatorFinalTask\FirstForm\bin\Debug\IngCalculator.exe
+C:\Users\User\OneDrive\Документы\ITMO\CalculatorFinalTask\FirstForm\bin\Debug\IngCalculator.pdb
+C:\Users\User\OneDrive\Документы\ITMO\CalculatorFinalTask\FirstForm\bin\Debug\IngCalculator.exe.config
